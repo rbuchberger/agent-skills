@@ -1,15 +1,14 @@
 {
-  "name": "mattpocock",
+  "name": "rbuchberger",
   "owner": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "Robert Buchberger"
   },
-  "description": "Matt Pocock's skills for real engineering, as an installable Claude Code plugin.",
+  "description": "Robert's agent skills: a fork of Matt Pocock's set, plus his own.",
   "plugins": [
     {
-      "name": "mattpocock-skills",
+      "name": "agent-skills",
       "source": "./",
-      "description": "Matt Pocock's agent skills for real engineering (grilling, spec/ticket flows, TDD, code review, domain modelling and more).",
+      "description": "A fork of Matt Pocock's engineering skills, plus Robert's own implement/orchestration cluster.",
       "category": "engineering",
       "keywords": [
         "engineering",
