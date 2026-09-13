@@ -1,0 +1,3 @@
+interface:
+  display_name: "Git Commits"
+  short_description: "Write atomic, revertable commits with consistent messages"

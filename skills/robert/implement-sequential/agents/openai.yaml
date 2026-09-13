@@ -1,0 +1,3 @@
+interface:
+  display_name: "Implement In Sequence"
+  short_description: "Implement several tickets one at a time via subagents"

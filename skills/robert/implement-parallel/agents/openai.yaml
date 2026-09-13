@@ -1,0 +1,3 @@
+interface:
+  display_name: "Implement In Parallel"
+  short_description: "Implement several tickets at once, one subagent and worktree each"
