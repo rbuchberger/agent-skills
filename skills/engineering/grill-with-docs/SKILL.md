@@ -5,3 +5,7 @@ disable-model-invocation: true
 ---
 
 Call the Skill tool twice, for "grilling" and "domain-modeling".
+
+The two sit in different categories, so read them here if your harness does not load skills by
+name: [grilling](../../productivity/grilling/SKILL.md) and
+[domain-modeling](../domain-modeling/SKILL.md).
